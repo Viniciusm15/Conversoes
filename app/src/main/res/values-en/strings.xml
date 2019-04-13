@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversions</string>
+    <string name="conversao_de_celisus_para_kelvin">Celsius to Kelvin conversion</string>
+    <string name="conversao_de_celsius_para_fahrenheit">Celsius to Fahrenheit conversion</string>
+    <string name="conversao_de_kelvin_para_celsius">Kelvin to Celsius conversion</string>
+    <string name="convers_o_de_kelvin_para_fahrenheit">Kelvin to Fahrenheit conversion</string>
+    <string name="conversao_de_fahrenheit_para_celsius">Fahrenheit to Celsius conversion</string>
+    <string name="conversao_de_fahrenheit_para_kelvin">Fahrenheit to Kelvin conversion</string>
+    <string name="converter">Convert</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversoes</string>
+    <string name="conversao_de_celisus_para_kelvin">Conversao de Celisus para Kelvin</string>
+    <string name="converter">Converter</string>
+    <string name="conversao_de_celsius_para_fahrenheit">Conversao de Celsius para Fahrenheit</string>
+    <string name="conversao_de_kelvin_para_celsius">Conversao de Kelvin para Celsius</string>
+    <string name="convers_o_de_kelvin_para_fahrenheit">Conversão de Kelvin para Fahrenheit</string>
+    <string name="conversao_de_fahrenheit_para_celsius">Conversao de Fahrenheit para Celsius</string>
+    <string name="conversao_de_fahrenheit_para_kelvin">Conversão de Fahrenheit para Kelvin</string>
+</resources>
